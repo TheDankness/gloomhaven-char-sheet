@@ -1,3 +1,25 @@
 .App {
+}
+
+.CharacterLevel {
+
+}
+
+h1, h2, h3 {
+  font-family: 'Pirata One', cursive;
+}
+
+.Level {
+  display: inline-block;
+  border: 1px solid black;
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  line-height: 22px;
+  margin: 2px;
   text-align: center;
+}
+
+.CharacterXP {
+  width: 200px;
 }
